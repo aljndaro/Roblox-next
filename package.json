@@ -28,8 +28,5 @@
   "files": [
     "dist/**/*",
     "src/**/*"
-  ],
-  "dependencies": {
-    "roblox-next": "^1.0.16"
-  }
+  ]
 }
