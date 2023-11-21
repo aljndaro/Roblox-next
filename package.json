@@ -1,0 +1,22 @@
+{
+  "name": "roblox-next",
+  "description": "A Roblox OAuth2 provider for NextAuth.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type":"module",
+  "keywords": ["Roblox", "NextAuth", "NextAuth Provider", "Roblox OpenCloud", "OpenCloud", "Roblox OAuth2"],
+  "version": "1.0.16",
+  "author": "MightyPart & Alex",
+  "license": "ISC",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "compilerOptions": {
+    "module": "ES6",
+    "target": "ESNext"
+  },
+  "files": ["dist/**/*", "src/**/*"]
+}
